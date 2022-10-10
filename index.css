@@ -1,0 +1,69 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+.git{
+    color: white;
+    background-color: rgba(2, 54, 30, 0.954); 
+    text-align: center;
+    
+}
+.smallbox1{
+    background-color: rgb(21, 21, 21);
+    text-align: center;
+    padding: 40px 10px;
+    margin: 30px 10px;
+    width: 250px;
+    height: 450px;
+}
+.smallbox2{
+    background-color: rgb(21, 21, 21);
+    padding: 20px 5px;
+    margin: 40px 100px;
+    width: 500px;
+    height: 5px;
+    display: flex;
+    justify-content: center;
+}
+.smallbox3{
+    background-color: rgb(21, 21, 21);
+    padding: 40px 5px;
+    margin: 70px 30px;
+    width: 130px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.smallbox4{
+    background-color: rgb(21, 21, 21);
+    padding: 40px 5px;
+    margin: 70px 30px;
+    width: 130px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.smallbox5{
+    background-color: rgb(21, 21, 21);
+    padding: 40px 5px;
+    margin: 70px 30px;
+    width: 130px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    background-color: rgb(21, 21, 21);
+    padding: auto;
+    margin: 50px 70px;
+    width: 950px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+i{
+    color: white;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+}
